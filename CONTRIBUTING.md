@@ -22,7 +22,7 @@ Consider the following before making a pull request:
 - [ ] Have I have added appropriate logging to provide traceability of my code?
 - [ ] Have I have ensured that environment variables are correctly referenced (for all environments)?
 
-###🎉 Well tested
+### 🎉 Well tested
 
 - [ ] Have I tested locally (or where appropriate) to prove my code works?
 - [ ] Do any new and/or existing unit tests pass locally?
