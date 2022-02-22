@@ -12,9 +12,9 @@ Consider the following before making a pull request:
 
  ### ✅ Clean code
 - [ ] Have I performed a self-review of my code (including spellchecking)?
-- [ ] Does my code follow Reward's [coding standards]()?
-- [ ] Do any database changes follow Postgres' [best practices]()?
-- [ ] Have I [linted]() my code?
+- [ ] Does my code follow Reward's [coding standards](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2190671996/Coding+Standards)?
+- [ ] Do any database changes follow Postgres' [best practices](https://rewardinsight.atlassian.net/wiki/spaces/HYD/pages/17044516/Postgres+Best+Practices)?
+- [ ] Have I linted my code?
 - [ ] Have I added comments to my code? (particularly in order to explain complexities I've added)
 
 ### 🤗 Good practices
