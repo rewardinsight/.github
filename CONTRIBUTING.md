@@ -7,7 +7,13 @@ Please help future developers by keeping our codebases clean.
 ## Pull requests
 Consider the following before making a pull request:
 
+### ❕ First and foremost
 - [ ] Is this a breaking change? If so, have I considered the implications?
+
+### 🖊 My PR
+- [ ] Have I referenced my ticket number in the title?
+- [ ] Does my branch number contain the ticket number?
+- [ ] Has the description been filled out?
 - [ ] If it's not ready for review - have I added 'WIP' (work in progress) to my title to prevent it being accidentally merged?
 
  ### ✅ Clean code
