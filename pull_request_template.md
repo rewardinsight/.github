@@ -21,10 +21,14 @@
 - [ ] Other (give description)
 
 ### Location
+FE
 - [ ] Mobile
 - [ ] Desktop
-- [ ] Backend
 
+BE
+- [ ] Microservice
+- [ ] Feature
+- [ ] Other
 
 ## My tests
 ### How has this been tested?
