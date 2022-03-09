@@ -36,6 +36,10 @@ Consider the following before making a pull request:
    
   👹 Not to scare you, but:
       [JavaScript developer destroys own projects in supply chain “lesson”](https://nakedsecurity.sophos.com/2022/01/11/javascript-developer-destroys-own-projects-in-supply-chain-lesson/) 
+      
+    🧾 FYI - [safely updating NPM packages](https://josipmisko.com/posts/how-to-update-npm-packages-in-4-easy-steps)
+    
+    
 - [ ] Have I have added appropriate logging to provide traceability of my code?
 - [ ] Have I have ensured that environment variables are correctly referenced (for all environments)?
 
