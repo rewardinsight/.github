@@ -25,6 +25,17 @@ Consider the following before making a pull request:
 
 ### 🤗 Good practices
 - [ ] Have I confirmed that packages/dependencies in this repo are up to date?
+
+   If there are updates to apply:
+   - [ ] **Do I understand** the upgrade’s impact on this repo?
+   - [ ] **Have I created a separate PR** for this upgrade, to ensure that it can be rolled back if necessary?
+   - [ ] **Have I tested** the repo to ensure there are no adverse affects?
+   - [ ] **Have I tagged** a senior developer as part of this PR?
+   
+   🛑 If you are **in any doubt**, **please speak to a senior developer**
+   
+  👹 Not to scare you, but:
+      [JavaScript developer destroys own projects in supply chain “lesson”](https://nakedsecurity.sophos.com/2022/01/11/javascript-developer-destroys-own-projects-in-supply-chain-lesson/) 
 - [ ] Have I have added appropriate logging to provide traceability of my code?
 - [ ] Have I have ensured that environment variables are correctly referenced (for all environments)?
 
