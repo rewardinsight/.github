@@ -2,6 +2,7 @@
     Erase any parts of this template not applicable to your PR -->
   
 ## My changes
+- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines)
 
 ### Jira reference
 <!-- Ticket or incident number, including link -->
