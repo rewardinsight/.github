@@ -52,8 +52,8 @@ Provide any relevant instructions for reproduction, if appropriate -->
 ### Migrations
 <!-- List any new migrations --> 
 
-### New libraries/packages/references
-<!-- Anything of note -->
+### New/updated dependencies
+<!-- Remember that dependency updates should be in a PR of their own -->
 
 ### Related PR(s)
 <!-- Tag anything relevant for ease of reference -->
