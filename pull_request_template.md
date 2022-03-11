@@ -53,7 +53,7 @@ Provide any relevant instructions for reproduction, if appropriate -->
 <!-- List any new migrations --> 
 
 ### New/updated dependencies
-<!-- Anything of note -->
+<!-- Remember that dependency updates should be in a PR of their own -->
 
 ### Related PR(s)
 <!-- Tag anything relevant for ease of reference -->
