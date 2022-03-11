@@ -52,7 +52,7 @@ Provide any relevant instructions for reproduction, if appropriate -->
 ### Migrations
 <!-- List any new migrations --> 
 
-### New libraries/packages/references
+### New/updated dependencies
 <!-- Anything of note -->
 
 ### Related PR(s)
