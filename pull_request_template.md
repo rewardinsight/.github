@@ -45,8 +45,8 @@ BE
 - [ ] Error level logs are set up 
 - [ ] These logs have been tested and confirmed 
 
-### Any comments?
-
+### Other
+- [ ] There are comments in your code to explain your 'why'? (not how)
 
 ## My tests
 ### How has this been tested?
