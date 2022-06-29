@@ -2,7 +2,9 @@
     Erase any parts of this template not applicable to your PR -->
   
 ## My changes
-- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines) and [logging guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2569109526/Logging+Guidelines)
+- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines)
+- [ ] I have read our [logging guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2569109526/Logging+Guidelines)
+- [ ] I understand if the logging guidelines arent followed my pr will be rejected
 
 ### Jira reference
 <!-- Ticket or incident number, including link -->
@@ -31,19 +33,6 @@ BE
 - [ ] Microservice
 - [ ] Feature
 - [ ] Other
-
-## Logging and Monitoing
-### What logging has been included? 
-- [ ] If an error occurs logging is output that would help diasgnose the issue
-- [ ] The id of the customer effected is recorded or other helpful information
-- [ ] The outward call that failed was recorded (if applicable)
-- [ ] The response was recorded (if applicable)
-- [ ] Are these logs visible in datadog?
-- [ ] Alerts are set up 
-- [ ] Informative level logs are set up 
-- [ ] Debug level logs are set up
-- [ ] Error level logs are set up 
-- [ ] These logs have been tested and confirmed 
 
 ### Other
 - [ ] There are comments in your code to explain your 'why'? (not how)
