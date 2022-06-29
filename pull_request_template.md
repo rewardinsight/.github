@@ -2,7 +2,9 @@
     Erase any parts of this template not applicable to your PR -->
   
 ## My changes
-- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines) and [logging guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2569109526/Logging+Guidelines)
+- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines)
+- [ ] I have read our [logging guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2569109526/Logging+Guidelines)
+- [ ] I understand if the logging guidelines arent followed my pr will be rejected
 
 ### Jira reference
 <!-- Ticket or incident number, including link -->
@@ -19,6 +21,7 @@
 - [ ] Bug/INC fix
 - [ ] Database change
 - [ ] New/updated document
+- [ ] Updating/ Improving Logging 
 - [ ] Other (give description)
 
 ### Location
@@ -30,6 +33,9 @@ BE
 - [ ] Microservice
 - [ ] Feature
 - [ ] Other
+
+### Other
+- [ ] There are comments in your code to explain your 'why'? (not how)
 
 ## My tests
 ### How has this been tested?
