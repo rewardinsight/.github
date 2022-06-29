@@ -19,6 +19,7 @@
 - [ ] Bug/INC fix
 - [ ] Database change
 - [ ] New/updated document
+- [ ] Updating/ Improving Logging 
 - [ ] Other (give description)
 
 ### Location
@@ -30,6 +31,22 @@ BE
 - [ ] Microservice
 - [ ] Feature
 - [ ] Other
+
+## Logging and Monitoing
+### What logging has been included? 
+- [ ] If an error occurs logging is output that would help diasgnose the issue
+- [ ] The id of the customer effected is recorded or other helpful information
+- [ ] The outward call that failed was recorded (if applicable)
+- [ ] The response was recorded (if applicable)
+- [ ] Are these logs visible in datadog?
+- [ ] Alerts are set up 
+- [ ] Informative level logs are set up 
+- [ ] Debug level logs are set up
+- [ ] Error level logs are set up 
+- [ ] These logs have been tested and confirmed 
+
+### Any comments?
+
 
 ## My tests
 ### How has this been tested?
