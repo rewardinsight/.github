@@ -1,65 +1,35 @@
-<!-- Ensure your Jira number is quoted in the title of this request
-    Erase any parts of this template not applicable to your PR -->
-  
-## My changes
-- [ ] I have read our [contributing guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2453602335/Contributing+guidelines)
-- [ ] I have read our [logging guidelines](https://rewardinsight.atlassian.net/wiki/spaces/SD/pages/2569109526/Logging+Guidelines)
-- [ ] I understand if the logging guidelines arent followed my pr will be rejected
+# PR title
 
-### Jira reference
-<!-- Ticket or incident number, including link -->
+## TL;DR
+<1–2 plain sentences: what changes and why, for a reviewer who reads nothing else>
 
+## 🎫 Ticket
+- [<KEY-123>](<full ticket URL>) — Input Ticket and URL here<ticket title>
 
-### What is this PR for?
-<!-- Give a brief description of your changes
-  *What did the code do before?*
- *What does it do now?* -->
+## Type of Task
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Refactoring
+- [ ] UI/UX improvement
 
+## 🖹 Description
+- **What:** <what was added/modified>
+- **Why:** <why the change was necessary>
+- **Technical details:** <notable implementation details>
 
-### Type of change
-- [ ] New/updated functionality
-- [ ] Bug/INC fix
-- [ ] Database change
-- [ ] New/updated document
-- [ ] Updating/ Improving Logging 
-- [ ] Other (give description)
+## 🌟 Impact
+- **UX**: <effect, or "None">
+- **Performance**: <effect, or "None">
+- **Security**: <effect, or "None">
+- **Maintenance**: <effect, or "None">
 
-### Location
-FE
-- [ ] Mobile
-- [ ] Desktop
+## ℹ️ Additional Information
+- **Breaking changes:** <what breaks and who must update, or "None">
+- **Testing:** <exact command run and result, e.g. "pytest: 3 passed">
+- **Setup:** <migrations, env vars, config, or "None">
 
-BE
-- [ ] Microservice
-- [ ] Feature
-- [ ] Other
+## 💥 Issues
+- <known limitation or pending concern, or "None known">
 
-### Other
-- [ ] There are comments in your code to explain your 'why'? (not how)
-
-## My tests
-### How has this been tested?
-
-<!-- Describe the tests you ran to verify the changes
-List the scenarios you covered
-Where has it been tested?
-Provide any relevant instructions for reproduction, if appropriate -->
-
-
-### Where has it been tested?
-<!-- List any browsers, if appropriate -->
-
-### Screenshots
-<!-- Anything that would help your reviewer(s) understand your changes --> 
-
-
-## Helpful references
-
-### Migrations
-<!-- List any new migrations --> 
-
-### New/updated dependencies
-<!-- Remember that dependency updates should be in a PR of their own -->
-
-### Related PR(s)
-<!-- Tag anything relevant for ease of reference -->
+## 🏞️ Demo
+<screenshots/GIF/video links, or "N/A — <reason, e.g. backend-only change>
